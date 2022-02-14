@@ -1,4 +1,4 @@
-key = "ed2d69aba7d048a1b538c72866efb610"
+key = "XXXXXX"
 endpoint = "https://learnmoduleworkshop.cognitiveservices.azure.com/"
 
 # from azure.ai.textanalytics import TextAnalyticsClient
