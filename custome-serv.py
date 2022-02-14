@@ -5,7 +5,7 @@ import json
 from PIL import Image
 from io import BytesIO
 
-subscription_key = "db479bf75e38411891981436d3dcf628"
+subscription_key = "xxxx"
 analyze_url = "https://custom-viznew.cognitiveservices.azure.com//vision/v3.1/analyze"
 image_url = "https://c0.wallpaperflare.com/preview/545/533/193/analyzing-people-brainstorming-business-business-people.jpg"
 headers = {'Ocp-Apim-Subscription-Key': subscription_key}
@@ -26,3 +26,4 @@ plt.axis("off")
 plt.show()
 
 print(analysis["faces"])
+
